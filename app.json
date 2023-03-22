@@ -2,6 +2,7 @@
     "name": "TG Direct Link Generator",
     "description": "A Telegram Bot To Get Direct Links Of Telegram Files.",
     "logo": "https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg",
+ "stack": "heroku-20",
     "keywords": [
         "telegram",        
         "pyrogram",
